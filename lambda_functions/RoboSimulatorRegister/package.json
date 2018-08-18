@@ -1,0 +1,15 @@
+{
+  "name": "robotsimulatorcommand",
+  "version": "1.0.0",
+  "description": "robot simulator command lambda function",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ashish Raj Agrawal",
+  "license": "ISC",
+  "dependencies": {
+    "atob": "^2.1.1",
+    "ioredis": "^4.0.0"
+  }
+}
