@@ -47,7 +47,7 @@ Any move that would cause the robot to fall must be ignored.
 ### Piller of the Application
 
 1. React.js for front end framework
-2. AwS Lambda Function
+2. AWS Lambda Function
 3. AWS API Gateway
 4. AWS Elasticache (Redis)
 5. Node.js
