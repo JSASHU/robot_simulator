@@ -44,7 +44,7 @@ Any move that would cause the robot to fall must be ignored.
 
 4. RoboSimulatorQueueExe :- This lambda takes user_token in headers. This lambda execute after robot simulator comes online. All command which are given at robot offline are stored in session and this lambda executes those commands once robot comes online.
 
-### Piller of the Application
+### Pillar of the Application
 
 1. React.js for front end framework
 2. AWS Lambda Function
